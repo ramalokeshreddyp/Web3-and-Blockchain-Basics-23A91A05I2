@@ -31,7 +31,7 @@ Gain practical experience with **blockchain, wallets, and decentralized applicat
 |--------------|----------------|
 | **Public Wallet Address** | `0xYourWalletAddressHere` |
 | **Transaction Hash** | `0xYourTxHashHere` |
-| **Etherscan Link** | [View Transaction on Sepolia](https://sepolia.etherscan.io/tx/yourhash) |
+| **Etherscan Link** | [View Transaction on Sepolia](https://sepolia.etherscan.io/) |
 | **Faucet Used** | [Sepolia Faucet](https://sepoliafaucet.com) |
 
 ---

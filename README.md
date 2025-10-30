@@ -41,7 +41,6 @@ Gain practical experience with **blockchain, wallets, and decentralized applicat
 | Folder / File | Description |
 |----------------|-------------|
 | `/screenshots` | Contains screenshots of MetaMask setup, faucet usage, DApp connection, and transaction verification |
-| `/transactions` | Stores transaction hash details and Etherscan verification links |
 | `/reflection` | Contains the 300–500 word written reflection about the Web3 experience |
 | `23A91A05I2_Web3_Basics.pdf` | Final compiled submission-ready PDF report |
 

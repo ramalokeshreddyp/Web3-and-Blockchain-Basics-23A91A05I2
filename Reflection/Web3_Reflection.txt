@@ -1,0 +1,15 @@
+Reflection
+
+This Web3 Basics assignment provided me with a strong foundation in blockchain technology and hands-on experience with decentralized applications.
+Initially, I learned how blockchain differs from traditional databases — blockchain stores data across distributed nodes where every transaction is immutable and transparent. Unlike centralized systems, there is no single controlling authority, which enhances trust and security.
+
+Understanding smart contracts was fascinating. They are pieces of self-executing code that automate processes on the blockchain without human intervention. In this project, I saw how Uniswap uses smart contracts to handle token swaps securely, eliminating the need for a central exchange.
+
+Setting up MetaMask taught me how wallets act as a bridge between users and the blockchain. I learned about seed phrases, which serve as master keys to a wallet. I ensured I stored mine offline, realizing that losing it means losing access permanently.
+
+When requesting test ETH from the Sepolia faucet, I observed how transactions move from pending to confirmed states and how gas fees are used to reward validators.
+Connecting to Uniswap and performing a swap gave me a real understanding of transaction signing — MetaMask required confirmation before executing the smart contract interaction.
+
+The Etherscan explorer helped me view transaction details like block number, gas used, and timestamps, showing full transparency of blockchain operations.
+
+Overall, this task helped me build confidence in Web3 fundamentals. I now understand the role of decentralization, the importance of security, and how smart contracts form the backbone of DApps. This hands-on exercise was an exciting first step toward developing real blockchain applications.

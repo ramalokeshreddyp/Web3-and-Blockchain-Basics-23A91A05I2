@@ -57,7 +57,7 @@ Key takeaways:
 
 ---
 
-## ✅ Deliverables  
+## ✅ Deliverables: 
 - MetaMask wallet configured for the Sepolia Testnet  
 - Testnet ETH obtained from a faucet  
 - At least one successful DApp interaction (Uniswap swap)  
